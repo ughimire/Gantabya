@@ -34,7 +34,7 @@ This repository is simply the collection of resources that is useful for ethical
 - https://docs.microsoft.com/en-us/learn/certifications/browse/?roles=administrator
 - https://underthewire.tech/
 - https://academy.hackthebox.eu/course/preview/windows-fundamentals
-- 
+
 
 # Linux Administration/Scripting:
 - https://linuxjourney.com/
