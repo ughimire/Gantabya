@@ -53,8 +53,30 @@ This repository is simply the collection of resources that is useful for ethical
 
 # Security Fundamentals
 - https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
+- https://owasp.org/www-project-top-ten/
+- https://application.security/
 
-# Penetration testing :
+# Penetration Testing
+- https://checkout.ine.com/starter-pass
+- https://www.youtube.com/watch?v=3Kq1MIfTWCE
+- https://www.youtube.com/watch?v=qJ9ZmkMvkcA&list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3
+
+# Hacking Labs/CTFs
+- https://dvwa.co.uk/
+- https://owasp.org/www-project-vulnerable-web-applications-directory/
+- https://www.hackthebox.eu/
+- https://tryhackme.com/
+- https://overthewire.org/wargames/
+- https://picoctf.org/
+- https://echoctf.red/
+- https://ctfchallenge.com/
+- https://ctftime.org/
+
+# Books 
+- https://leanpub.com/ltr101-breaking-into-infosec (free) 
+- https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book (free)
+- <a href="./product/download.html" target="_top">Download Page</a>
+
 - 
 
 
