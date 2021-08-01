@@ -146,4 +146,4 @@ This repository is simply the collection of resources that is useful for ethical
 - <a href="https://www.blackhat.com/">Blackhat</a>
 - <a href="https://defcon.org/">Defcon</a>
 - <a href="https://threatcon.io/">Threatcon</a>
-- <a href="https://github.com/Infosec-Community/APAC-Conferences"></a>
+- <a href="https://github.com/Infosec-Community/APAC-Conferences">Many more</a>
