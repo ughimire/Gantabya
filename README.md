@@ -75,7 +75,7 @@ This repository is simply the collection of resources that is useful for ethical
 # Books 
 - https://leanpub.com/ltr101-breaking-into-infosec (free) 
 - https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book (free)
-- <a href="./product/download.html" target="_top">Download Page</a>
+- <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470" target="_top">Web-Application-Hackers-Handbook-Exploiting</a>
 
 - 
 
