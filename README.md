@@ -24,6 +24,7 @@ This repository is simply the collection of resources that is useful for ethical
 - http://programming-motherfucker.com/
 - https://www.w3schools.com/
 - https://www.programiz.com/
+- https://www.codecademy.com/
 - 
 
 
