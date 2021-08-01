@@ -141,6 +141,7 @@ This repository is simply the collection of resources that is useful for ethical
 - <a href="https://twitter.com/zseano">@zseano</a>
 - <a href="https://twitter.com/DanielMiessler">@DanielMiessler</a>
 - <a href="https://twitter.com/infosec_au">@infosec_au</a>
+- <a href="https://twitter.com/gregxsunday">@gregxsunday</a>
 
 # Conferences
 - <a href="https://www.blackhat.com/">Blackhat</a>
