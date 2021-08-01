@@ -25,6 +25,37 @@ This repository is simply the collection of resources that is useful for ethical
 - https://www.w3schools.com/
 - https://www.programiz.com/
 - https://www.codecademy.com/
+- https://www.edx.org/learn/computer-programming
+- https://www.youtube.com/user/programmingwithmosh
+- https://devdocs.io/
+
+# Windows Administration/Scripting
+- https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/
+- https://docs.microsoft.com/en-us/learn/certifications/browse/?roles=administrator
+- https://underthewire.tech/
+- https://academy.hackthebox.eu/course/preview/windows-fundamentals
 - 
+
+# Linux Administration/Scripting:
+- https://linuxjourney.com/
+- https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+- https://www.youtube.com/watch?v=lZAoFs75_cs
+- https://academy.hackthebox.eu/course/preview/linux-fundamentals
+- https://www.cybrary.it/course/comptia-linux-plus/
+- https://tryhackme.com/module/linux-fundamentals
+- https://overthewire.org/wargames/bandit/
+- https://guide.bash.academy/
+
+# Web Technologies
+- https://www.w3schools.com/ 
+- https://developer.mozilla.org/en-US/
+- https://www.php.net/manual/en/index.php
+
+# Security Fundamentals
+- https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
+
+# Penetration testing :
+- 
+
 
 
