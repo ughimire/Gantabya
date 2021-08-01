@@ -98,8 +98,23 @@ This repository is simply the collection of resources that is useful for ethical
 - <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw"> John Hammond</a>
 - <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg"> Stok</a>
 - <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw"> Nahamsec</a>
-- 
-- 
+- <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">Ippsec</a>
+- <a href="https://www.youtube.com/user/GynvaelEN">GynvaelEN</a>
+- <a href="https://www.youtube.com/user/ConfigTerm">David Bombal</a>
+- <a href="https://www.youtube.com/user/NetworkChuck">Network Chuck</a>
+- <a href="https://www.youtube.com/user/Keith6783">Keith Barker</a>
+- <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q">HackerSploit</a>
+- <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">The Cyber Mentor</a>
+- <a href="https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg">codingo</a>
+- <a href="https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A">InsiderPhD</a>
+- <a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A"> PwnFunction</a>
+- <a href="https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw">Gerald Auger - Simply Cyber</a>
+- <a href="https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg">webpwnized</a>
+- <a href="https://www.youtube.com/user/Nirmaldahal200">#Nittam</a>
+- <a href="https://www.youtube.com/channel/UCeMWyKMRaWt06_cxyajaUtg">Nepalese IT Study Community</a>
+- <a href="https://www.youtube.com/user/TheBinitGhimire">Binit Ghimire</a>
+- <a href="https://www.youtube.com/channel/UC92-mWoke5rS6D5zCQ5WvXg> Captain Nick Lucifer</a>
+
      
 # Communities 
 - https://www.facebook.com/pentesternepal/
