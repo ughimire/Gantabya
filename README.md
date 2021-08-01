@@ -56,6 +56,12 @@ This repository is simply the collection of resources that is useful for ethical
 - https://owasp.org/www-project-top-ten/
 - https://application.security/
 
+# Tools:
+- <a href="https://portswigger.net/burp">Burpsuite</a>
+- <a href="https://nmap.org/">Nmap</a>
+- <a href="https://owasp.org/www-project-zap/">Owasp zap</a>
+- <a href="https://github.com/cyberguideme/Tools">Many more</a>
+
 # Penetration Testing
 - https://checkout.ine.com/starter-pass
 - https://www.youtube.com/watch?v=3Kq1MIfTWCE
@@ -86,6 +92,7 @@ This repository is simply the collection of resources that is useful for ethical
 # Podcasts
 - https://darknetdiaries.com/
 - https://inteltechniques.com/podcast.html
+- https://soundcloud.com/nepal-got-hacked
 
 # Blogs:
 - https://infosecwriteups.com/
@@ -95,6 +102,7 @@ This repository is simply the collection of resources that is useful for ethical
 
 
 # Youtube Channels
+- <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">Liveoverflow</a>
 - <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw"> John Hammond</a>
 - <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg"> Stok</a>
 - <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw"> Nahamsec</a>
@@ -112,8 +120,9 @@ This repository is simply the collection of resources that is useful for ethical
 - <a href="https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg">webpwnized</a>
 - <a href="https://www.youtube.com/user/Nirmaldahal200">#Nittam</a>
 - <a href="https://www.youtube.com/channel/UCeMWyKMRaWt06_cxyajaUtg">Nepalese IT Study Community</a>
+- <a href="https://www.youtube.com/channel/UCKZfPoIlRX1JFXSD41-R52g"> Santosh Bhandari</a>
 - <a href="https://www.youtube.com/user/TheBinitGhimire">Binit Ghimire</a>
-- <a href="https://www.youtube.com/channel/UC92-mWoke5rS6D5zCQ5WvXg> Captain Nick Lucifer</a>
+- <a href="https://www.youtube.com/channel/UC92-mWoke5rS6D5zCQ5WvXg"> Captain Nick Lucifer</a>
 
      
 # Communities 
@@ -121,4 +130,20 @@ This repository is simply the collection of resources that is useful for ethical
 
 # Twitter handles
 - <a href="https://twitter.com/NahamSec?s=20">@NahamSec</a>
-- 
+- <a href="https://twitter.com/Jhaddix">@Jhaddix</a>
+- <a href="https://twitter.com/nnwakelam">@@nnwakelam</a>
+- <a href="https://twitter.com/irsdl">@irsdl</a>
+- <a href="https://twitter.com/snyff">@synff</a>
+- <a href="https://twitter.com/kevinmitnick">@kevinmitnick</a>
+- <a href="https://twitter.com/codecancare">@codecancure</a>
+- <a href="https://twitter.com/hakluke">@hakluke</a>
+- <a href="https://twitter.com/PhillipWylie">@PhillipWylie</a>
+- <a href="https://twitter.com/zseano">@zseano</a>
+- <a href="https://twitter.com/DanielMiessler">@DanielMiessler</a>
+- <a href="https://twitter.com/infosec_au">@infosec_au</a>
+
+# Conferences
+- <a href="https://www.blackhat.com/">Blackhat</a>
+- <a href="https://defcon.org/">Defcon</a>
+- <a href="https://threatcon.io/">Threatcon</a>
+- <a href="https://github.com/Infosec-Community/APAC-Conferences"></a>
