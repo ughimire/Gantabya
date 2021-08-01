@@ -64,9 +64,10 @@ This repository is simply the collection of resources that is useful for ethical
 # Hacking Labs/CTFs
 - https://dvwa.co.uk/
 - https://owasp.org/www-project-vulnerable-web-applications-directory/
-- https://www.hackthebox.eu/
+- https://portswigger.net/
 - https://tryhackme.com/
 - https://overthewire.org/wargames/
+- https://www.hackthebox.eu/
 - https://picoctf.org/
 - https://echoctf.red/
 - https://ctfchallenge.com/
@@ -76,9 +77,25 @@ This repository is simply the collection of resources that is useful for ethical
 - <a href="https://leanpub.com/ltr101-breaking-into-infosec " target="_top">ltr101-breaking-into-infosec</a>(free) 
 - <a href="https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book ">Web hacking 101</a> (free)
 - <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470">Web-Application-Hackers-Handbook-Exploiting</a>
+- <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566/">The Hacker Playbook 2</a>
 - <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/" >The Hacker Playbook 3</a>
+- <a href="https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307/">The Pentester BluePrint</a>
+- <a href="https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/"> Red Team Field Manual </a>
+- <a href="https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/"> Operator Handbook</a>
 
+# Podcasts
+- https://darknetdiaries.com/
+- https://inteltechniques.com/podcast.html
+
+# Blogs:
+- https://infosecwriteups.com/
+- https://pentester.land/
+- https://portswigger.net/blog
+- https://thexssrat.medium.com/
+
+# Communities 
+- https://www.facebook.com/pentesternepal/
+
+# Twitter handles
+- <a href="https://twitter.com/NahamSec?s=20">@NahamSec</a>
 - 
-
-
-
