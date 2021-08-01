@@ -15,5 +15,15 @@ This repository is simply the collection of resources that is useful for ethical
 - https://www.youtube.com/watch?v=7A8PI57jDdA&list=PLGMmunRffJa5zyCur60pNux4fJUNCaFk1
 - https://www.youtube.com/watch?v=zxZpopqhKk8&list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g
 - https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
+- https://www.youtube.com/watch?v=8AX9LandYJU&list=PLQQoSBmrXmrysEaVNia7KVwf85qATIi1V
+- https://www.youtube.com/watch?v=NtLp4lYggmc&list=PLGMmunRffJa4D7ZT3BsDwcOyU4x6bQ2XG
+- https://study-ccna.com/
+- https://en.wikipedia.org/wiki/OSI_protocols
+
+# Programming
+- http://programming-motherfucker.com/
+- https://www.w3schools.com/
+- https://www.programiz.com/
+- 
 
 
