@@ -73,9 +73,10 @@ This repository is simply the collection of resources that is useful for ethical
 - https://ctftime.org/
 
 # Books 
-- https://leanpub.com/ltr101-breaking-into-infosec (free) 
-- https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book (free)
-- <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470" target="_top">Web-Application-Hackers-Handbook-Exploiting</a>
+- <a href="https://leanpub.com/ltr101-breaking-into-infosec " target="_top">ltr101-breaking-into-infosec</a>(free) 
+- <a href="https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book ">Web hacking 101</a> (free)
+- <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470">Web-Application-Hackers-Handbook-Exploiting</a>
+- <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/" >The Hacker Playbook 3</a>
 
 - 
 
