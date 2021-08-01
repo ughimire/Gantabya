@@ -93,6 +93,14 @@ This repository is simply the collection of resources that is useful for ethical
 - https://portswigger.net/blog
 - https://thexssrat.medium.com/
 
+
+# Youtube Channels
+- <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw"> John Hammond</a>
+- <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg"> Stok</a>
+- <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw"> Nahamsec</a>
+- 
+- 
+     
 # Communities 
 - https://www.facebook.com/pentesternepal/
 
